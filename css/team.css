@@ -1,4 +1,4 @@
-..team-section {
+.team-section {
   background-color: #f4f4fd;
 }
 
@@ -24,7 +24,7 @@
 }
 
 .team-card-content {
-  padding: 32px 16px; /* Змінено з 32px 0 на 32px 16px */
+  padding: 32px 16px;
 }
 
 .team-subtitle {
