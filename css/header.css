@@ -5,12 +5,6 @@
 .header-container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-}
-
-.nav {
-  display: flex;
-  align-items: center;
 }
 
 .header-logo {
@@ -44,6 +38,7 @@
 
 .contacts {
   font-style: normal;
+  margin-left: auto; /* Працює як фіксація відступу замість space-between */
 }
 
 .contacts-list {
